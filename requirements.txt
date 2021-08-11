@@ -1,0 +1,2 @@
+spacy==2.3.5
+en-core-med7-lg @ https://med7.s3.eu-west-2.amazonaws.com/en_core_med7_lg.tar.gz
