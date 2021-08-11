@@ -1,0 +1,12 @@
+Flask==1.1.2
+gunicorn==20.0.4
+itsdangerous==1.1.0
+Jinja2==2.10.1
+MarkupSafe==1.1.1
+Werkzeug==0.15.5
+scipy>=0.15.1
+scikit-learn>=0.18
+matplotlib>=1.4.3
+pandas>=0.19
+spacy==2.3.5
+en-core-med7-lg @ https://med7.s3.eu-west-2.amazonaws.com/en_core_med7_lg.tar.gz
